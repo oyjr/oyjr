@@ -13,7 +13,7 @@ About me
 | <a href="https://github.com/oyjr/oyjr"><img align="center" src="https://github-readme-stats.vercel.app/api?username=oyjr&show\_icons=true&include\_all\_commits=true&theme=buefy&hide\_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/oyjr/oyjr"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oyjr&layout=compact&theme=buefy&hide\_border=true" /></a> |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 <picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake-dark.svg" />
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg">
 </picture>
