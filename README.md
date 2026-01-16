@@ -1,17 +1,40 @@
-<div align="center">
-<div>
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome%20to%20my%20GitHub！&center=true&size=27" />
-</div>
-</div>
-I'm an undergraduate student at the School of Intelligent Engineering, Sun Yat-sen University. 🎓 My areas of keen interest include Artificial Intelligence (Deep Learning, Machine Learning, Computer Vision) 🧠.
-About me
-- 🎓 Studying Intelligent Systems Engineering at Sun Yat-sen University
-- 🔍 Specializing in Natural Language Processing (NLP)
-- 🌱 Currently working on projects involving logical reasoning and metaphor recognition in large language models
-- 💬 Feel free to ask me about my research or projects [here](https://github.com/oyjr/oyjr/issues)
-- 📫 Reach me at: ouyjr@mail2.sysu.edu.cn
+<!-- Profile README for @oyjr -->
 
+<h2 align="center">Hi, I'm Jia-Rui (Jiarui) Ou-Yang 👋</h2>
 
+<p align="center">
+  PhD student @ HKUST (Smart Lab, Prof. Hao Chen) · Spatial Transcriptomics · Computational Pathology · Multi-omics
+</p>
+
+<p align="center">
+  <a href="https://hkustsmartlab.github.io/">Lab</a> ·
+  <a href="https://github.com/oyjr/genar">Code</a> ·
+  <a href="https://orcid.org/0009-0001-4716-4235">ORCID</a> ·
+  <a href="mailto:jouyangag@connect.ust.hk">Email</a>
+</p>
+
+---
+
+### About
+I am a PhD student at **The Hong Kong University of Science and Technology (HKUST)**, working with **Prof. Hao Chen** (since **Fall 2025**).
+My research focuses on **spatial omics (e.g., spatial transcriptomics)** and **computational pathology**, especially on **multi-omics modeling and integration**.
+
+**Current interests**
+- 🧬 Spatial transcriptomics / spatial omics modeling
+- 🔬 Computational pathology
+- 🔗 Multi-omics integration & representation learning
+- 🤖 Generative modeling / foundation models for biomedical data
+
+**Previously**
+- SYSU — Intelligent Systems Engineering
+
+---
+
+### Contact
+- 📫 Email: jouyangag@connect.ust.hk
+- 💬 For questions/collaboration, feel free to open an issue: https://github.com/oyjr/oyjr/issues
+
+---
 
 
 <picture>
