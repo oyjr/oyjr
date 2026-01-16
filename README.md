@@ -8,7 +8,6 @@
 
 <p align="center">
   <a href="https://hkustsmartlab.github.io/">Lab</a> ·
-  <a href="https://github.com/oyjr/genar">Code</a> ·
   <a href="https://orcid.org/0009-0001-4716-4235">ORCID</a> ·
   <a href="mailto:jouyangag@connect.ust.hk">Email</a>
 </p>
