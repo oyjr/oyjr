@@ -1,43 +1,24 @@
-<!-- Profile README for @oyjr -->
+# Jiarui Ouyang
 
-<h2 align="center">Hi, I'm Jia-Rui (Jiarui) Ou-Yang 👋</h2>
+I'm a PhD student at the [Hong Kong University of Science and Technology](https://hkust.edu.hk/), working with Prof. Hao Chen in [SmartX Lab](https://hkustsmartlab.github.io/). My research focuses on spatial transcriptomics and computational pathology: predicting gene expression from tissue images and measuring how much local expression detail these predictions recover.
 
-<p align="center">
-  PhD student @ HKUST (Smart Lab, Prof. Hao Chen) · Spatial Transcriptomics · Computational Pathology · Multi-omics
-</p>
+[Email](mailto:jouyangag@connect.ust.hk) · [ORCID](https://orcid.org/0009-0001-4716-4235)
 
-<p align="center">
-  <a href="https://hkustsmartlab.github.io/">Lab</a> ·
-  <a href="https://orcid.org/0009-0001-4716-4235">ORCID</a> ·
-  <a href="mailto:jouyangag@connect.ust.hk">Email</a>
-</p>
+## Research
 
----
+**[GenAR](https://github.com/oyjr/genar)** — Predicting spatial gene expression from histology with coarse-to-fine autoregressive generation. Published in *Medical Image Analysis*, 2026. [Paper](https://doi.org/10.1016/j.media.2026.104232) · [Code](https://github.com/oyjr/genar)
 
-### About
-I am a PhD student at **The Hong Kong University of Science and Technology (HKUST)**, working with **Prof. Hao Chen** (since **Fall 2025**).
-My research focuses on **spatial omics (e.g., spatial transcriptomics)** and **computational pathology**, especially on **multi-omics modeling and integration**.
+**[STDetail](https://github.com/oyjr/STDetail)** — A toolkit for evaluating local gene expression recovery within tissue regions, across spatial scales and between cells. [Project](https://stdetail.org/) · [Code](https://github.com/oyjr/STDetail)
 
-**Current interests**
-- 🧬 Spatial transcriptomics / spatial omics modeling
-- 🔬 Computational pathology
-- 🔗 Multi-omics integration & representation learning
-- 🤖 Generative modeling / foundation models for biomedical data
+## Selected publications
 
-**Previously**
-- SYSU — Intelligent Systems Engineering
+- **GenAR: Next-scale autoregressive generation for spatial gene expression prediction.** Jiarui Ouyang, Yihui Wang, Yihang Gao, Yingxue Xu, Shu Yang and Hao Chen. *Medical Image Analysis*, 2026. [Paper](https://doi.org/10.1016/j.media.2026.104232)
+- **A Survey on Recent Advances in LLM-Based Multi-turn Dialogue Systems.** Zihao Yi, Jiarui Ouyang, Zhe Xu, Yuwen Liu, Tianhao Liao, Haohao Luo and Ying Shen. *ACM Computing Surveys*, 2026. [Paper](https://doi.org/10.1145/3771090)
+- **Zero-Shot Image Captioning with Multi-type Entity Representations.** Delong Zeng, Ying Shen, Man Lin, Zihao Yi and Jiarui Ouyang. *AAAI*, 2025. [Paper](https://doi.org/10.1609/aaai.v39i21.34386)
 
----
+## Education
 
-### Contact
-- 📫 Email: jouyangag@connect.ust.hk
-- 💬 For questions/collaboration, feel free to open an issue: https://github.com/oyjr/oyjr/issues
+- **HKUST** — PhD student, 2025–present
+- **Sun Yat-sen University** — Intelligent Systems Engineering
 
----
-
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/oyjr/oyjr/output/github-contribution-grid-snake.svg">
-</picture>
+Contact: [jouyangag@connect.ust.hk](mailto:jouyangag@connect.ust.hk)
